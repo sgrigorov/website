@@ -18,9 +18,10 @@ wget \
 #      --span-hosts \
 #      --convert-links \
 #      --directory-prefix=dir2 \
-#      --domains naghedi-immigration.ca \
+#      --domains round-chartreuse-77zl.squarespace.com \
 #      --no-parent \
-#         www.naghedi-immigration.ca
+#      --password=password \
+#         round-chartreuse-77zl.squarespace.com
 
 wget \
      --recursive \
