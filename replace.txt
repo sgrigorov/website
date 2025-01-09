@@ -32,7 +32,13 @@ https://static1
 https://www.naghedi-immigration.ca
 https://sgrigorov.github.io/website/dir1/www.naghedi-immigration.ca
 
+https://turtle-salmon-8r6h.squarespace.com
+https://sgrigorov.github.io/website/dir1/www.naghedi-immigration.ca
+
 "www.naghedi-immigration.ca"
+"sgrigorov.github.io/website/dir1/www.naghedi-immigration.ca"
+
+"squarespace.com"
 "sgrigorov.github.io/website/dir1/www.naghedi-immigration.ca"
 
 https://images
@@ -44,18 +50,14 @@ https://images
 //assets
 ../../assets
 
-
-https://turtle-salmon-8r6h.squarespace.com
-https://sgrigorov.github.io/website/dir1/www.naghedi-immigration.ca
+https://static1
+../../static1
 
 "turtle-salmon-8r6h"
 "new-turtle-salmon-8r6h"
 
-https://static1
-../../static1
 
-"squarespace.com"
-"sgrigorov.github.io/website/dir1/www.naghedi-immigration.ca"
+
 
 
 
